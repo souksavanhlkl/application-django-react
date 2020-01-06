@@ -1,6 +1,4 @@
-#!/bin/sh
-'''exec' "/Users/ton/Desktop/untitled folder/application-django-react/backend/env/bin/python3.7" "$0" "$@"
-' '''
+#!/Users/ton/Desktop/AAA/application-django-react/backend/env/bin/python3.7
 # -*- coding: utf-8 -*-
 import re
 import sys
